@@ -1,12 +1,11 @@
 {
-  "version_code": 5,
-  "version_name": "1.3.0",
+  "version_code": 6,
+  "version_name": "1.4.0",
   "release_date": "2026-04-01",
-  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.3.0/KaffaraPro_v1.3.0_debug.apk",
+  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.4.0/KaffaraPro_v1.4.0_debug.apk",
   "changelog": {
-    "ru": "Новые иконки, выбор языка, обновлены ссылки, исправлено отображение версии",
-    "en": "New icons, language selector, updated links, version display fixed",
-    "ar": "أيقونات جديدة، اختيار اللغة، روابط محدّثة"
+    "ru": "Прогресс-бар при загрузке обновления, исправлена установка через OTA",
+    "en": "Progress bar during update download, fixed OTA install"
   },
   "force_update": false
 }
