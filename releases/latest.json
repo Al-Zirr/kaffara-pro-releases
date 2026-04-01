@@ -1,6 +1,12 @@
 {
   "version_code": 3,
   "version_name": "1.2.0",
+  "release_date": "2026-04-01",
   "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.2.0/KaffaraPro_v1.2.0_debug.apk",
-  "release_notes": "Новые иконки + выбор языка в настройках"
+  "changelog": {
+    "ru": "Новые иконки + выбор языка в настройках",
+    "en": "New icons + language selector in settings",
+    "ar": "أيقونات جديدة + اختيار اللغة في الإعدادات"
+  },
+  "force_update": false
 }
