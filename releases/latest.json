@@ -1,11 +1,11 @@
 {
-  "version_code": 6,
-  "version_name": "1.4.0",
+  "version_code": 7,
+  "version_name": "1.4.1",
   "release_date": "2026-04-01",
-  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.4.0/KaffaraPro_v1.4.0_debug.apk",
+  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.4.1/KaffaraPro_v1.4.1_debug.apk",
   "changelog": {
-    "ru": "Прогресс-бар при загрузке обновления, исправлена установка через OTA",
-    "en": "Progress bar during update download, fixed OTA install"
+    "ru": "Исправлено отображение версии в истории",
+    "en": "Fixed version display in history"
   },
   "force_update": false
 }
