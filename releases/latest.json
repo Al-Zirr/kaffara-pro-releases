@@ -1,11 +1,11 @@
 {
-  "version_code": 8,
-  "version_name": "1.5.0",
+  "version_code": 9,
+  "version_name": "1.6.0",
   "release_date": "2026-04-02",
-  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.5.0/KaffaraPro_v1.5.0_debug.apk",
+  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.6.0/KaffaraPro_v1.6.0_debug.apk",
   "changelog": {
-    "ru": "Исправлена версия — теперь отображается правильно",
-    "en": "Fixed version display"
+    "ru": "Система резервного копирования: экспорт и импорт данных через JSON",
+    "en": "Backup system: export and import data via JSON"
   },
   "force_update": false
 }
