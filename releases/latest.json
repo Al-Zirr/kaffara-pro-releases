@@ -1,13 +1,13 @@
 {
-  "version_code": 11,
-  "version_name": "1.6.2",
+  "version_code": 12,
+  "version_name": "1.6.3",
   "release_date": "2026-04-03",
-  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.6.2/KaffaraPro_v1.6.2_debug.apk",
+  "apk_url": "https://github.com/Al-Zirr/moon-hisab-releases/releases/download/v1.6.3/KaffaraPro_v1.6.3_debug.apk",
   "changelog": {
-    "ru": "Исправление: скачивание обновления не сбрасывается при переходе на другую вкладку.",
-    "en": "Fix: update download no longer resets when switching tabs.",
-    "ar": "إصلاح: تنزيل التحديث لا يتوقف عند التنقل بين التبويبات.",
-    "tr": "Düzeltme: sekme değiştirirken güncelleme indirmesi artık sıfırlanmıyor."
+    "ru": "Добавлена карточка Moon Hisab в раздел ресурсов — исламский лунный календарь от тех же разработчиков.",
+    "en": "Added Moon Hisab card in resources section — Islamic lunar calendar by the same developers.",
+    "ar": "تمت إضافة بطاقة Moon Hisab في قسم الموارد — تقويم هجري إسلامي من نفس المطورين.",
+    "tr": "Kaynaklar bölümüne Moon Hisab kartı eklendi — aynı geliştiricilerden İslami ay takvimi."
   },
   "force_update": false
 }
