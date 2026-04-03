@@ -1,13 +1,13 @@
 {
-  "version_code": 10,
-  "version_name": "1.6.1",
+  "version_code": 11,
+  "version_name": "1.6.2",
   "release_date": "2026-04-03",
-  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.6.1/KaffaraPro_v1.6.1_debug.apk",
+  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.6.2/KaffaraPro_v1.6.2_debug.apk",
   "changelog": {
-    "ru": "Вкладка «Доказательства» переведена на все 15 языков приложения. Исправлены ключи settings_language во всех языках.",
-    "en": "Evidence tab translated into all 15 app languages. Fixed missing settings_language keys.",
-    "ar": "ترجمة تبويب «الأدلة» إلى جميع لغات التطبيق الـ 15. إصلاح مفاتيح settings_language.",
-    "tr": "«Deliller» sekmesi uygulamanın 15 diline çevrildi. settings_language anahtarları düzeltildi."
+    "ru": "Исправление: скачивание обновления не сбрасывается при переходе на другую вкладку.",
+    "en": "Fix: update download no longer resets when switching tabs.",
+    "ar": "إصلاح: تنزيل التحديث لا يتوقف عند التنقل بين التبويبات.",
+    "tr": "Düzeltme: sekme değiştirirken güncelleme indirmesi artık sıfırlanmıyor."
   },
   "force_update": false
 }
