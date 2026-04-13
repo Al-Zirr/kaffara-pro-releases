@@ -1,13 +1,13 @@
 {
-  "version_code": 12,
-  "version_name": "1.6.3",
-  "release_date": "2026-04-03",
-  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.6.3/KaffaraPro_v1.6.3_debug.apk",
+  "version_code": 13,
+  "version_name": "1.6.4",
+  "release_date": "2026-04-13",
+  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.6.4/KaffaraPro_v1.6.4_debug.apk",
   "changelog": {
-    "ru": "Добавлена карточка Moon Hisab в раздел ресурсов — исламский лунный календарь от тех же разработчиков.",
-    "en": "Added Moon Hisab card in resources section — Islamic lunar calendar by the same developers.",
-    "ar": "تمت إضافة بطاقة Moon Hisab في قسم الموارد — تقويم هجري إسلامي من نفس المطورين.",
-    "tr": "Kaynaklar bölümüne Moon Hisab kartı eklendi — aynı geliştiricilerden İslami ay takvimi."
+    "ru": "Расширенный ввод фидьи: добавлено поле «Возместил» — укажите год когда был возмещён пост. Задержка считается от года возмещения.",
+    "en": "Advanced fidya input: added «Made up» field — specify the year when the fast was made up. Delay is calculated from that year.",
+    "ar": "الإدخال المتقدم للفدية: تمت إضافة حقل «سنة القضاء» — حدّد السنة التي قضيت فيها الصيام. يُحسب التأخير من تلك السنة.",
+    "tr": "Gelişmiş fidye girişi: «Kaza yılı» alanı eklendi — orucun kaza edildiği yılı belirtin. Gecikme o yıldan hesaplanır."
   },
   "force_update": false
 }
