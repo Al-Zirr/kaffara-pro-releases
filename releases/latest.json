@@ -1,13 +1,11 @@
 {
-  "version_code": 15,
-  "version_name": "1.6.6",
-  "release_date": "2026-07-24",
-  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.6.6/KaffaraPro_v1.6.6_debug.apk",
+  "version_code": 16,
+  "version_name": "1.6.7",
+  "release_date": "2026-11-08",
+  "apk_url": "https://github.com/Al-Zirr/kaffara-pro-releases/releases/download/v1.6.7/KaffaraPro_v1.6.7_debug.apk",
   "changelog": {
-    "ru": "Дефолтный режим фидьи изменён на «Один Рамадан» (раньше по умолчанию считало для более редкого случая «одинаково каждый год» и завышало результат). Обновлены точные меры мазхаба во всём приложении: мудд=576г, ритль=432г, дирхам=3.36г, мискаль=4.8г, са'=2304г, нисаб зерна=691.2кг — в калькуляторе, конвертере и разделе доказательств.",
-    "en": "Default fidya mode changed to \"Single Ramadan\" (previously defaulted to the rarer \"same every year\" case, overstating results). Updated precise madhhab measurements throughout the app: mudd=576g, ratl=432g, dirham=3.36g, mithqal=4.8g, sa'=2304g, grain nisab=691.2kg — in the calculator, converter, and evidence section.",
-    "ar": "تم تغيير الوضع الافتراضي للفدية إلى «رمضان واحد» (كان سابقًا يحسب افتراضيًا للحالة الأندر «نفس العدد كل عام» مما يعطي نتيجة أكبر). تم تحديث المقاييس الشرعية الدقيقة في كل التطبيق: المدّ=576غ، الرطل=432غ، الدرهم=3.36غ، المثقال=4.8غ، الصاع=2304غ، نصاب الحبوب=691.2كغ.",
-    "tr": "Varsayılan fidye modu «Tek Ramazan» olarak değiştirildi (önceden daha nadir «her yıl aynı» durumuna göre hesaplıyordu ve sonucu şişiriyordu). Uygulama genelinde kesin mezhep ölçüleri güncellendi: müd=576g, ratl=432g, dirhem=3.36g, miskal=4.8g, sa'=2304g, tahıl nisabı=691.2kg."
+    "ru": "Вкладка «История» переименована в «Пост». Журнал отметок «Возместил»: под кнопками видно, сколько дней отмечено сегодня, а внизу карточки — журнал по датам. Повторное нажатие в тот же день спрашивает, сколько добавить. «Отменить» снимает 1 день с последней записи и показывает кнопку «Вернуть». Исправлен перенос слов на кнопках. Журнал входит в резервную копию.",
+    "en": "The \"History\" tab is now called \"Post\". Make-up log: the card shows how many days were marked today and a per-date log at the bottom. Pressing the button again on the same day asks how many days to add. \"Undo\" removes 1 day from the latest entry and offers a \"Restore\" action. Fixed button labels wrapping. The log is included in backups."
   },
   "force_update": false
 }
